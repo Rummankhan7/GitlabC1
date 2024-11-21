@@ -1,1 +1,2 @@
 hello github
+updated my user name in git bash
