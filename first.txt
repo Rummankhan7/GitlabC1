@@ -7,3 +7,4 @@ Hello to Gitlab
 WELCOME TO GITLAB 
 pushing welcome
 changed config as my email
+I am R
